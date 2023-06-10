@@ -1,4 +1,4 @@
-# Airline-Sys
+# Airline-Booking-System-Java-J2EE-Full-Stack
 
 Full Stack MVC Project in JAVA (EE), JSP, HTML, CSS, Bootstrap, Javascript, jquery AJAX, JSON, XML, SQL Server, Web Services (SOAP, RESTful) and Security includes Roles, XSS, and SQL injection
 
